@@ -9,6 +9,7 @@ The aim of the challenge is to develop an end-to-end AI system to identify vulne
 
 To acheive this, the AIxCC DARPA moderators and developers have collaborated with top AI companies to assist the challengers in the development, and testing phase of their solutions. 
 
+The challenge is restricted to C and Java language only. 
 
 ## Team 
 Consists of 5 members - 
@@ -18,8 +19,12 @@ Consists of 5 members -
 - [Ze Sheng](https://www.linkedin.com/in/ze-sheng-294586222/)
 - [Neha Manghnani](https://www.linkedin.com/in/neha-manghnani/)
 
-## Solution 
-_updating_
+## Challenges
+AIxCC has provided example challenges which mocks the challenge problems which would be provided in the real competition. This is done to help competitors analyze the type of challenge projects which would presented, and to develop an AI system which would identify and patch the vulnerabilities in a similar challenge which would be presented in the competition.
 
 ## Experiments 
 _updating_
+
+## Current Status 
+Semifinal submission completed. Results due August 2025 at World's Top CyberSecurity Conference DEF-CON 2024
+Finals would be held in August 2025. 
