@@ -1,6 +1,6 @@
 # AIXCC DARPA Challenge 2024
 
-AIxCC stands for Artificial Intelligence Cyber Challenge which aims to integrate AI and cyber-security to safeguard software. 
+[AIxCC](https://aicyberchallenge.com/) stands for Artificial Intelligence Cyber Challenge which aims to integrate AI and cyber-security to safeguard software. 
 
 With the recent developments in AI, there is a great potential of making use of the advancement in the field of AI into the cybersecurity space and addressing cyber-attacks and cyber-crimes. 
 
@@ -14,7 +14,9 @@ To acheive this, the AIxCC DARPA moderators and developers have collaborated wit
 The challenge is restricted to C and Java language only. 
 
 ## Team 
-Consists of 5 members - 
+Name - all_you_need_is_a_fuzzing_brain (🏆 Top 7 Finalists)
+
+Team Members - 
 - [Jeff Huang](https://engineering.tamu.edu/cse/profiles/huang-jeff.html) 
 - [Ting Dai](https://linkedin.com/in/ting-dai-b61579106/)
 - [Heqing Hui](https://www.linkedin.com/in/heqing-huang-504712b6/)
@@ -47,5 +49,9 @@ Jenkins CP was the example of a source code project in Java language.
 Among the commits made to the jenkins source code, one of the commits introduces a OS Command Injection bug in the source project. 
 
 ## Current Status 
+- Aug 25 2024 Update:
+  Top 7 Finalists in the AIxCC Semifinals Competition at DEF CON 32 held in Las Vegas. Proceeding to Finals in August 2025
+  
+- July Update:
 Semifinal submission completed. Results due August 2025 at World's Top CyberSecurity Conference DEF-CON 2024
 Finals would be held in August 2025. 
